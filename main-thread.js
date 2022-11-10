@@ -7,6 +7,7 @@ var isTrue = false;
  * un comment below code to see how for loop stcuk main thread
  */
 btn1.addEventListener("click",function(e) {
+    // console.log("click event stucks main tread works")
     // let sum = 0;
     //     for(let i = 0;i<10000000000;i++) {
     //         sum += i;
